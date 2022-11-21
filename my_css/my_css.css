@@ -1,0 +1,41 @@
+div .my_logo {
+    position: relative;
+    top: 75px;
+    width: 132px;
+    margin-top: 20px;
+    margin-left: -90px;
+}
+
+.row {
+    margin-top: -138px;
+    margin-bottom: 0px;
+}
+
+}
+
+element.style {
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 500;
+    background: rgb(82, 79, 79);
+    display: block;
+    left: 0px;
+    width: 1302px;
+}
+
+.list-unstyled {
+    border-radius: 35px;
+
+}
+
+element.style {
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 500;
+
+    display: block;
+    left: 0px;
+    width: 1349px;
+}
